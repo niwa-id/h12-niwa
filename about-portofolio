@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet.css">
+		<link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet.css">
+	</head>
+	<body>
+		<div class="about-wrapper">
+			<div class="container">
+				<div class="heading"><h2>About</h2></div>
+				<div class="about"><img src="https://drive.google.com/file/d/1XO3nKTXk1m6eHqPUvIUpUOzdxXC1SrfW/view?usp=sharing"></div>
+				<div class="about">
+				<p>Lorem ipsum dolor sit amet, consectetur</p>
+				<p>adipiscing elit. Morbi fringilla suscipit</p>
+				<p>nunc quis feugiat. Sed mattis eget est quis cursus.</p>
+				<p>Mauris gravida dictum justo ut euismod. Vivamus<p>
+				<p>euismod bibendum sapien, imperdiet pellentesque</p>
+				<p>massa facilisis sit amet. Sed quis iaculis velit.</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
